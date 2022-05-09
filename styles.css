@@ -1,0 +1,33 @@
+.index-center {
+    text-align: center;
+}
+
+.title {
+    background-color: black;
+    color: red;
+    font-size: 45px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#ratman {
+    height: auto;
+    width: 250px;
+}
+
+.spicy {
+    background-color: blue;
+    color:white;
+    font-size: 45px;
+}
+
+.menubar {
+    background-color: black;
+    counter-reset: white;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.tinytext {
+    font-size: 6px;
+    color:green;
+}
